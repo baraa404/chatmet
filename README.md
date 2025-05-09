@@ -1,32 +1,22 @@
-# ChatMet - University Project
+# ChatMet - University Project 🎓💬
 
-A small website project for university that implements a chatbot using Google's Gemini API.
+A small website project for university that implements a chatbot using Google's Gemini API. 🚀
 
-## About
+## About 📖
 
-ChatMet is a simple web application that demonstrates how to integrate Google's Gemini AI into a chat interface. This project was created as a university assignment to showcase practical implementation of AI APIs in web development.
+ChatMet is a simple yet powerful web application that demonstrates how to integrate Google's Gemini AI into a chat interface. This project was created as part of a university assignment to showcase the practical implementation of AI APIs in web development. 🌐✨
 
-## Key Features
+## Key Features 🌟
 
-- Interactive chatbot powered by Google's Gemini API
-- User registration and login system
-- Chat history tracking
-- Responsive design
+- 🤖 **Interactive chatbot** powered by Google's Gemini API
+- 🔐 **User registration and login system** for personalized experiences
+- 🗂️ **Chat history tracking** to revisit past conversations
+- 📱 **Responsive design** for seamless use on any device
 
-## Technologies Used
+## Technologies Used 🛠️
 
-- PHP & MySQL for backend
-- Bootstrap for frontend
-- JavaScript for API integration
-- Google Gemini API for AI responses
+- 🐘 **PHP** & 🗄️ **MySQL** for backend development
+- 🎨 **Bootstrap** for a sleek and responsive frontend
+- ⚡ **JavaScript** for API integration
+- 🌌 **Google Gemini API** for intelligent AI responses
 
-## Setup
-
-1. Install XAMPP
-2. Import the database file
-3. Place files in htdocs folder
-4. Access via localhost/chatmet
-
-## Test Account
-- Username: `testuser`
-- Password: `password123`
